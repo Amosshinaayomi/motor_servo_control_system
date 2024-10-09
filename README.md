@@ -1,4 +1,4 @@
-# motor_servo_control_system
+# First robot control system
 ![simulation screenshot] (simulation_screenshot.png)
 This is a simulation of a robot control system I made  about a year ago using the simulIDE circuit simulator for my on-going robot dog. The simulation features the all components of the circuitry and the code for the microcontroller.
 
