@@ -1,5 +1,5 @@
 # motor_servo_control_system
-![screenshot of simulation]()
+![screenshot of simulation](Screenshot 2024-10-09 004854.png)
 This is a simulation of a robot control system I made  about a year ago using the simulIDE circuit simulator for my on-going robot dog. The simulation features the all components of the circuitry and the code for the microcontroller.
 
 ## The Circuit.
